@@ -10,6 +10,7 @@ For fun, I use JavaScript to build prototypes and then [abandon](https://londonm
 
 Current projects: 
 
+* A [discovery tool for web development videos on YouTube](https://learnbyvideo.dev)
 * A [directory of live coding channels on Twitch](https://streamers.dev)
 * [Sheetfig](https://github.com/jschuur/sheetfig/), a CLI utility to download JSON config data from Google Sheets
 
