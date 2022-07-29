@@ -14,6 +14,10 @@ Current projects:
 * A [directory of live coding channels on Twitch](https://streamers.dev)
 * [Sheetfig](https://github.com/jschuur/sheetfig/), a CLI utility to download JSON config data from Google Sheets
 
+Latest [dev.to](https://dev.to/joostschuur) post:
+
+* [Using pure ESM npm packages in serverless-webpack bundles](https://dev.to/joostschuur/using-pure-esm-npm-packages-in-serverless-webpack-bundles-apd)
+
 Sometimes I tweet: [@joostschuur](https://twitter.com/joostschuur).
 
 Likes: Typos, interrupting people 20% less lately and [Lindor mint chocolate](https://www.lindt.co.uk/lindt-lindor-milk-mint-bar-38g-en-gb-04000539280009).
