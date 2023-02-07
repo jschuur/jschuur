@@ -6,6 +6,7 @@ I'm a London based JavaScript developer that enjoys making curated content on ni
 
 * LearnByVideo.dev: [recent programming videos on YouTube](https://learnbyvideo.dev)
 * Streamers.dev: [live coding channels on Twitch](https://streamers.dev)
+* localtime: [CLI to look up time and weather with auto-completion](https://www.npmjs.com/package/localtime-cli)
 
 For work, I'm the Technical Integration Manager at [Playmob](https://playmob.com), where we build web games for good causes for brands.
 
@@ -13,6 +14,7 @@ Tools I use include React/Next.js, Tailwind, KeystoneJS, Prisma, Serverless Fram
 
 Latest blog posts:
 
+* [Quick Tip: Add RSS auto discovery to your blog](https://www.joostschuur.com/blog/quick-tip-add-rss-auto-discovery-to-your-blog) (joostschuur.com)
 * [Quick Tip: Deploy only modified Vercel projects in a Turborepo monorepo](http://localhost:3000/blog/quick-tip-deploy-only-modified-vercel-projects-in-a-turborepo-onorepo) (joostschuur.com)
 * [Elsewhere on social media](https://www.joostschuur.com/blog/elsewhere-on-social-media) (joostschuur.com)
 * [Using pure ESM npm packages in serverless-webpack bundles](https://dev.to/joostschuur/using-pure-esm-npm-packages-in-serverless-webpack-bundles-apd) (dev.to)
