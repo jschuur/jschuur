@@ -11,7 +11,7 @@ I'm a London based JavaScript developer that enjoys making curated content on ni
 
 For work, I'm the Technical Integration Manager at [Playmob](https://playmob.com), where we build web games for good causes for brands.
 
-Tools I use include React/Next.js, Tailwind, KeystoneJS, Prisma, Serverless Framework/SST, Astro, Retool, Metabase and more.
+Tools I use include React/Next.js, Tailwind, KeystoneJS, Prisma, Serverless Framework/SST, Astro, Tinybird, Retool, Metabase and more.
 
 Latest blog posts:
 
