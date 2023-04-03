@@ -8,6 +8,7 @@ I'm a London based JavaScript developer that enjoys making curated content on ni
 * Streamers.dev: [live coding channels on Twitch](https://streamers.dev)
 * localtime: [CLI to look up time and weather with auto-completion](https://www.npmjs.com/package/localtime-cli)
 * chatgpt-repl: [Simple interactive command line interface to ChatGPT](https://www.npmjs.com/package/chatgpt-repl)
+* [Does it Have a Feed?](https://doesithaveafeed.com): A quick way to check for a site's RSS & Atom syndication feeds
 
 For work, I'm the Technical Integration Manager at [Playmob](https://playmob.com), where we build web games for good causes for brands.
 
