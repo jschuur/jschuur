@@ -4,11 +4,12 @@
 
 I'm a London based JavaScript developer that enjoys making curated content on niche topics more easily available. This includes news about [Mars](http://twitter.com/martiansoil) and [Moon](https://twitter.com/lunarsoil) exploration for Twitter and other side projects:
 
-* LearnByVideo.dev: [recent programming videos on YouTube](https://learnbyvideo.dev)
-* Streamers.dev: [live coding channels on Twitch](https://streamers.dev)
-* localtime: [CLI to look up time and weather with auto-completion](https://www.npmjs.com/package/localtime-cli)
-* chatgpt-repl: [Simple interactive command line interface to ChatGPT](https://www.npmjs.com/package/chatgpt-repl)
-* [Does it Have a Feed?](https://doesithaveafeed.com): A quick way to check for a site's RSS & Atom syndication feeds
+* [LearnByVideo.dev](https://learnbyvideo.dev): recent programming videos on YouTube ([repo](https://github.com/jschuur/learnbyvideo.dev))
+* [Streamers.dev](https://streamers.dev): live coding channels on Twitch ([repo](https://github.com/jschuur/streamers.dev))
+* [localtime](https://www.npmjs.com/package/localtime-cli): CLI to look up time and weather with auto-completion ([repo](https://github.com/jschuur/localtime-cli))
+* [chatgpt-repl](https://www.npmjs.com/package/chatgpt-repl): Simple interactive command line interface to ChatGPT ([repo](https://github.com/jschuur/chatgpt-repl))
+* [Does it Have a Feed?](https://doesithaveafeed.com): A quick way to check for a site's RSS & Atom syndication feeds ([repo](https://github.com/jschuur/doesithaveafeed.com))
+* [LearnChinese.club](https://learnchinese.club): AI generated Mandarin Chinese flashcards ([repo](https://github.com/jschuur/learnchinese.club))
 
 For work, I'm the Technical Integration Manager at [Playmob](https://playmob.com), where we build web games for good causes for brands.
 
