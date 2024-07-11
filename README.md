@@ -4,6 +4,8 @@
 
 I'm a London based JavaScript developer that enjoys making curated content on niche topics more easily available. This includes news about [Mars](http://twitter.com/martiansoil) and [Moon](https://twitter.com/lunarsoil) exploration for Twitter and other side projects:
 
+* [Open Tabs Count](https://tabs.joostschuur.com): Chrome browser extension to show open browser tab activity, using Tinybird and shadcn/ui charts ([repo](https://github.com/jschuur/open-tabs-count))
+* [Decent Next.js Starter Template](https://decent.joostschuur.com): An okay template to start a new Next.js project with shadcn/ui, Drizzle/Turso, Auth.js and SST (Ion) already set up ([repo](https://github.com/jschuur/decent-nextjs-starter-template))
 * [Coworking.party](https://coworking.party): Virtual coworking communities to keep people motivated and have a little fun (early work in progress) ([repo](https://github.com/jschuur/coworking.party))
 * [LearnByVideo.dev](https://learnbyvideo.dev): recent programming videos on YouTube ([repo](https://github.com/jschuur/learnbyvideo.dev))
 * [Streamers.dev](https://streamers.dev): live coding channels on Twitch ([repo](https://github.com/jschuur/streamers.dev))
