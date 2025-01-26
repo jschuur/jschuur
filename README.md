@@ -18,7 +18,7 @@ For work, I'm the Technical Integration Manager at [Playmob](https://playmob.com
 
 Previously I was a hosting, developer relations and product manager over a long career as an early employee at [GameSpy/IGN](https://en.wikipedia.org/wiki/GameSpy), where we created online gaming communities and infrastructure for over 1,000 games. Before that, in the stone age of the Internet, I was a web developer at an an agency that built some of the first web sites for major brands on the emerging Web.
 
-Tools I use include React/Next.js, Tailwind, KeystoneJS, Prisma, Serverless Framework/SST, Astro, Tinybird, Retool, Metabase and more.
+Tools I use include React/Next.js, Tailwind, Shadcn UI, KeystoneJS, Prisma/Drizzle, SST, Astro, Tinybird, Observable, Retool, Metabase and more.
 
 Latest blog posts:
 
