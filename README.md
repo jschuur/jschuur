@@ -27,4 +27,4 @@ Latest blog posts:
 * [Elsewhere on social media](https://www.joostschuur.com/blog/elsewhere-on-social-media) (joostschuur.com)
 * [Using pure ESM npm packages in serverless-webpack bundles](https://dev.to/joostschuur/using-pure-esm-npm-packages-in-serverless-webpack-bundles-apd) (dev.to)
 
-Sometimes I tweet: [@joostschuur](https://twitter.com/joostschuur) (also on [Mastodon](https://mastodon.social/@joostschuur)).
+Sometimes I post on Bluesky: [@joostschuur.com](https://bsky.app/profile/joostschuur.com).
